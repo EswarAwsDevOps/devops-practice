@@ -2,7 +2,7 @@
 
 ##### Change these values ###
 ZONE_ID="Z09809822GU5CVYBGWN39"
-SG_NAME="allow-all"
+SG_NAME="Allow-All"
 #ENV="dev"
 #############################
 
